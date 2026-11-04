@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.minoplay.progressiveoverload",
+            "sha256_cert_fingerprints": [
+                "8A:64:D7:9D:F5:01:D4:47:5B:9A:C9:92:26:C6:83:90:99:B1:FA:4E:ED:57:88:1F:2D:55:C8:64:96:E5:CD:20"
+            ]
+        }
+    }
+]
